@@ -6,3 +6,4 @@ Whether working independently or in teams, I focus on impactful analyses and dat
 
 ---
 
+# 👨🏻‍💻 About me
