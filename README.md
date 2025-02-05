@@ -17,8 +17,8 @@ I'm always interested in collaborating on new projects and expanding my skillset
 ## 🗂️ Table of Contents
 * About Me
 * Portfolio Projects
-* 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
-* 🚗 2. Car Data Analysis (Python) - still in progress - almost completed
+  * 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
+  * 🚗 2. Car Data Analysis (Python) - still in progress - almost completed
 * Education
 * Certificates
 * Contact
