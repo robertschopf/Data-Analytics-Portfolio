@@ -25,3 +25,10 @@ I'm always interested in collaborating on new projects and expanding my skillset
 
 ---
 
+## 📊 Portfolio Projects
+
+🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
+
+**Goal:**
+
+**Description:**
