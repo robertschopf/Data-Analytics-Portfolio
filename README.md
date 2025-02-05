@@ -7,3 +7,11 @@ Whether working independently or in teams, I focus on impactful analyses and dat
 ---
 
 # 👨🏻‍💻 About me
+
+🎓 Trained as a data analyst, bridging my background in operations and sports management with a passion for data-driven solutions. I combine my operational experience with hands-on expertise in data cleaning, transformation, and visualization to solve real-world problems. 
+
+I'm always interested in collaborating on new projects and expanding my skillset.  My personal projects focus on pattern recognition and dashboard creation, empowering others to use data more effectively. I thrive on challenges and enjoy sharing insights that contribute to better business decisions.
+
+---
+
+
