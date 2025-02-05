@@ -30,9 +30,9 @@ I'm always interested in collaborating on new projects and expanding my skillset
 🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
 
 **Goal:**
-...
+ ...
 
-**Description::**
+**Description:**
 ...
 
 **Part 1:** Data Exploration with SQL
