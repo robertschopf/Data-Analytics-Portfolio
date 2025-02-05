@@ -30,5 +30,59 @@ I'm always interested in collaborating on new projects and expanding my skillset
 🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
 
 **Goal:**
+...
 
-**Description:**
+**Description::**
+...
+
+**Part 1:** Data Exploration with SQL
+...
+
+**Part 2:** Analysis with Google Sheets
+...
+
+**Part 3:** Insights & Dashboard with Tableau
+...
+
+**Skills:**
+..
+
+**Technology:** 
+PostgreSQL, Google-Sheets, Tableau
+
+**Key Insights:**
+...
+
+📈 **Results:**
+...
+
+---
+
+🚗 **2. Car Data Analysis (Python)** - still in progress - almost completed
+
+**Goal:**
+...
+
+**Description::**
+...
+
+**Part 1:** Data Exploration with SQL
+...
+
+**Part 2:** Analysis with Google Sheets
+...
+
+**Part 3:** Insights & Dashboard with Tableau
+...
+
+**Skills:**
+..
+
+**Technology:** 
+Python with Pandas, NumPy, Matplotlib, Seaborn
+
+**Key Insights:**
+...
+
+📈 **Results:**
+...
