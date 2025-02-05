@@ -6,7 +6,7 @@ Whether working independently or in teams, I focus on impactful analyses and dat
 
 ---
 
-# 👨🏻‍💻 About me
+## 👨🏻‍💻 About me
 
 🎓 Trained as a data analyst, bridging my background in operations and sports management with a passion for data-driven solutions. I combine my operational experience with hands-on expertise in data cleaning, transformation, and visualization to solve real-world problems. 
 
@@ -14,14 +14,14 @@ I'm always interested in collaborating on new projects and expanding my skillset
 
 ---
 
-# 🗂️ Table of Contents
-About Me
-Portfolio Projects
-🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
-🚗 2. Car Data Analysis (Python) - still in progress - almost completed
-Education
-Certificates
-Contact
+## 🗂️ Table of Contents
+###About Me
+###Portfolio Projects
+###🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)
+###🚗 2. Car Data Analysis (Python) - still in progress - almost completed
+###Education
+###Certificates
+###Contact
 
 ---
 
