@@ -36,16 +36,21 @@ To perform in-depth data exploration using SQL, conduct data cleaning and transf
 The project involved examining Unicorn Company's sales, profit and customer data using SQL queries and converting the findings into an actionable Tableau dashboard. My analysis focused primarily on the KPI's of sales and profit for each category and segment
 
 **Part 1:** Data Exploration with SQL
-...
+* Leveraged SQL to analyze Unicorn's database, focusing on sales, revenue, profit, and customer behavior. 
+
+* Cleaned and joined tables such as 'customers,' 'orders,' and 'order_details.' Performed aggregations and generated rankings to identify top-performing products, categories, regions, and customer segments, revealing key trends and relationships within the data.
 
 **Part 2:** Analysis with Google Sheets
-...
+* Created calculated columns (e.g., price per unit, profit margin) and utilized pivot tables to analyze data by category, segment, and region. Employed conditional formatting to highlight key findings and trends
 
 **Part 3:** Insights & Dashboard with Tableau
-...
+* Developed a Tableau dashboard to visualize key insights and trends, empowering data-driven business decision-making within the company.
 
 **Skills:**
-..
+* **SQL:** Data querying, joins, DML/DQL operations, subqueries, aggregations
+* **Data** Manipulation: Data cleaning, filtering, transformation, and validation
+* **Data Visualization:** Tableau for dashboard creation, interactive visualizations, and exploration
+* **Business Analysis:** Data analysis, trend identification, KPI analysis, and development of actionable business recommendations
 
 **Technology:** 
 PostgreSQL, Google-Sheets, Tableau
@@ -54,7 +59,9 @@ PostgreSQL, Google-Sheets, Tableau
 ...
 
 📈 **Results:**
-...
+* Tableau Public Dashboard
+* Google-Sheets 
+* SQL Queries
 
 ---
 
