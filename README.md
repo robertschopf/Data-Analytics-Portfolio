@@ -69,19 +69,13 @@ PostgreSQL, Google-Sheets, Tableau
 
 🚗 **2. Car Data Analysis (Python)** - still in progress - almost completed
 
-**Goal:**
-...
+**Goal:**  
+Gain deep insights by cleaning, transforming and analyzing the vehicle dataset to uncover correlations between vehicle characteristics and market behavior.
 
-**Description::**
-...
+**Description:**  
+Dieses Projekt verwendete Python zur Analyse eines Autodatensatzes und konzentrierte sich auf Datenbereinigung, Feature-Engineering und explorative Analyse. Der Datensatz enthielt Details wie Automarke, Modell, Motordaten, Kraftstoffart und Preis. Ziel war es, wichtige Trends und Beziehungen zwischen Fahrzeugeigenschaften und Marktfaktoren zu identifizieren.
 
-**Part 1:** Data Exploration with SQL
-...
-
-**Part 2:** Analysis with Google Sheets
-...
-
-**Part 3:** Insights & Dashboard with Tableau
+**Key Tasks:**
 ...
 
 **Skills:**
