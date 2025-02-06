@@ -106,8 +106,14 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 ## 📜 Certificates
 
-DataCamp
-Cousera
+* Masterschool
+   * Tableau
+
+* DataCamp
+  * SQL for Data Analytics
+
+* Cousera
+  * Python for Data Analysis
 
 ---
 
