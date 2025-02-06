@@ -73,10 +73,12 @@ PostgreSQL, Google-Sheets, Tableau
 Gain deep insights by cleaning, transforming and analyzing the vehicle dataset to uncover correlations between vehicle characteristics and market behavior.
 
 **Description:**  
-Dieses Projekt verwendete Python zur Analyse eines Autodatensatzes und konzentrierte sich auf Datenbereinigung, Feature-Engineering und explorative Analyse. Der Datensatz enthielt Details wie Automarke, Modell, Motordaten, Kraftstoffart und Preis. Ziel war es, wichtige Trends und Beziehungen zwischen Fahrzeugeigenschaften und Marktfaktoren zu identifizieren.
+This project utilized Python to analyze a car dataset, focusing on data cleaning, feature engineering, and exploratory analysis. The dataset included details such as car make, model, engine specifications, fuel type, and price. The goal was to identify key trends and relationships between vehicle characteristics and market factors.
 
 **Key Tasks:**
-...
+* Cleaned the data by addressing missing values, ensuring data type consistency and standardizing text formats. Filtered the dataset to include only cars produced from 1995 onwards.
+* Created new features, such as "Total MPG" and "Price per Horsepower," to gain deeper insights into vehicle performance and value
+* EDA includes the calculation of descriptive statistics, group analyses and the creation of various diagrams to identify and visualize patterns, trends and relationships between market size, car prices, engine HP or consumption.
 
 **Skills:**
 ..
