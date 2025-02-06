@@ -29,11 +29,11 @@ I'm always interested in collaborating on new projects and expanding my skillset
 
 🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
 
-**Goal:**
- ...
+**Goal:**  
+To perform in-depth data exploration using SQL, conduct data cleaning and transformation using Google Sheets, build an executive-level dashboard with Tableau, and generate actionable business recommendations for Unicorn based on the insights gained.
 
-**Description:**
-...
+**Description:**  
+The project involved examining Unicorn Company's sales, profit and customer data using SQL queries and converting the findings into an actionable Tableau dashboard. My analysis focused primarily on the KPI's of sales and profit for each category and segment
 
 **Part 1:** Data Exploration with SQL
 ...
