@@ -81,16 +81,23 @@ This project utilized Python to analyze a car dataset, focusing on data cleaning
 * EDA includes the calculation of descriptive statistics, group analyses and the creation of various diagrams to identify and visualize patterns, trends and relationships between market size, car prices, engine HP or consumption.
 
 **Skills:**
-..
+* Loading, cleaning, and transforming data  (with Pandas & NumPy)
+* Conducting descriptive statistics
+* correlation analysis 
+* generating informative visualizations (with Matplotlib & Seaborn)
 
 **Technology:** 
 Python with Pandas, NumPy, Matplotlib, Seaborn
 
 **Key Insights:**
-...
+* Higher engine power typically correlates with higher MSRP
+* Larger vehicles typically have higher MSRPs than smaller vehicles
+* Higher power leads to higher fuel economy
+* Direct shift transmissions typically offer better fuel efficiency than other transmission types
+* There is little correlation between MSRP and popularity
 
 📈 **Results:**
-...
+* Google Colabs Notebook
 
 ---
 
