@@ -27,7 +27,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 
 ## 📊 Portfolio Projects
 
-🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
+### 🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
 
 **Goal:**  
 To perform in-depth data exploration using SQL, conduct data cleaning and transformation using Google Sheets, build an executive-level dashboard with Tableau, and generate actionable business recommendations for Unicorn based on the insights gained.
@@ -56,7 +56,9 @@ The project involved examining Unicorn Company's sales, profit and customer data
 PostgreSQL, Google-Sheets, Tableau
 
 **Key Insights:**
-...
+* Identification of the regions, categories, segments and products with the highest sales and best performing
+* Presentation of potential market opportunities and specialization options by markt categorys
+* Recommendation of bundling the marketing budget and pricing structure linked to the discount strategy
 
 📈 **Results:**
 * Tableau Public Dashboard
@@ -93,3 +95,25 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 📈 **Results:**
 ...
+
+---
+
+## 🎓 Education
+
+* Data Analytics at Masterschool (still in Progress)
+
+---
+
+## 📜 Certificates
+
+DataCamp
+Cousera
+
+---
+
+## 📬 Contact
+Please don't hesitate to contact me on LinkedIn or via email to discuss potential projects, opportunities or collaborations.
+
+---
+
+I hope you find this project portfolio to be both inspiring and insightful. 🌟
