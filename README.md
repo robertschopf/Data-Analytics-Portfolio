@@ -15,13 +15,13 @@ I'm always interested in collaborating on new projects and expanding my skillset
 ---
 
 ## 🗂️ Table of Contents
-* About Me
-* Portfolio Projects  
+* [About Me]()
+* * [Portfolio Projects]()
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/unicorn_project)
-  * 🚗 2. Car Data Analysis (Python) - still in progress - almost completed
-* Education
-* Certificates
-* Contact
+  * 🚗 [2. Car Data Analysis (Python) - still in progress - almost completed]()
+* [Education]()
+* [Certificates]()
+* [Contact]()
 
 ---
 
@@ -61,13 +61,13 @@ PostgreSQL, Google-Sheets, Tableau
 * Recommendation of bundling the marketing budget and pricing structure linked to the discount strategy
 
 📈 **Results:**
-* Tableau Public Dashboard
-* Google-Sheets 
-* SQL Queries
+* [Tableau Public Dashboard]()
+* [Google-Sheets]() 
+* [SQL Queries]()
 
 ---
 
-🚗 **2. Car Data Analysis (Python)** - still in progress - almost completed
+🚗 [**2. Car Data Analysis (Python)** - still in progress - almost completed]()
 
 **Goal:**  
 Gain deep insights by cleaning, transforming and analyzing the vehicle dataset to uncover correlations between vehicle characteristics and market behavior.
@@ -97,7 +97,7 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * There is little correlation between MSRP and popularity
 
 📈 **Results:**
-* Google Colabs Notebook
+* [Google Colabs Notebook]()
 
 ---
 
@@ -121,7 +121,7 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 ---
 
 ## 📬 Contact
-Please don't hesitate to contact me on LinkedIn or via email to discuss potential projects, opportunities or collaborations.
+Please don't hesitate to contact me on [LinkedIn](http://www.linkedin.com/in/robertschopf) or via email to discuss potential projects, opportunities or collaborations.
 
 ---
 
