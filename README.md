@@ -61,7 +61,7 @@ PostgreSQL, Google-Sheets, Tableau
 * Recommendation of bundling the marketing budget and pricing structure linked to the discount strategy
 
 📈 **Results:**
-* [Tableau Public Dashboard]()
+* [Tableau Public Dashboard](https://public.tableau.com/views/Project_Unicorn/UnicornDashboardbyCategoryandSegment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * [Google-Sheets]() 
 * [SQL Queries]()
 
