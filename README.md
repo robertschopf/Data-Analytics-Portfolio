@@ -67,7 +67,7 @@ PostgreSQL, Google-Sheets, Tableau
 
 ---
 
-🚗 [**2. Car Data Analysis (Python)** - still in progress - almost completed]()
+🚗 [**2. Car Data Analysis (Python)** - still in progress - almost completed](https://github.com/robertschopf/car_data_analysis)
 
 **Goal:**  
 Gain deep insights by cleaning, transforming and analyzing the vehicle dataset to uncover correlations between vehicle characteristics and market behavior.
