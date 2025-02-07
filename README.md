@@ -18,7 +18,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 * [About Me]()
 * * [Portfolio Projects]()
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/unicorn_project)
-  * 🚗 [2. Car Data Analysis (Python) - still in progress - almost completed](https://github.com/robertschopf/car_data_analysis)
+  * 🚗 [2. Car Data Analysis (Python) - still in progress - almost completed]()
 * [Education]()
 * [Certificates]()
 * [Contact]()
@@ -67,7 +67,7 @@ PostgreSQL, Google-Sheets, Tableau
 
 ---
 
-🚗 [**2. Car Data Analysis (Python)** - still in progress - almost completed](https://github.com/robertschopf/car_data_analysis)
+🚗 [**2. Car Data Analysis (Python)** - still in progress - almost completed]()
 
 **Goal:**  
 Gain deep insights by cleaning, transforming and analyzing the vehicle dataset to uncover correlations between vehicle characteristics and market behavior.
