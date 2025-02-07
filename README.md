@@ -27,7 +27,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 
 ## 📊 Portfolio Projects
 
-### 🦄 **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**
+### 🦄 [**1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)**](https://github.com/robertschopf/unicorn_project)
 
 **Goal:**  
 To perform in-depth data exploration using SQL, conduct data cleaning and transformation using Google Sheets, build an executive-level dashboard with Tableau, and generate actionable business recommendations for Unicorn based on the insights gained.
