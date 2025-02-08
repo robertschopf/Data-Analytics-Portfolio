@@ -97,7 +97,7 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * There is little correlation between MSRP and popularity
 
 📈 **Results:**
-[* Google Colabs Notebook](ttps://colab.research.google.com/drive/1867ErT9_cWf1LzrVDklDDi1wnbPa-sc4?usp=sharing)
+* [Google Colabs Notebook](ttps://colab.research.google.com/drive/1867ErT9_cWf1LzrVDklDDi1wnbPa-sc4?usp=sharing)
 
 ---
 
