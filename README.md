@@ -63,7 +63,7 @@ PostgreSQL, Google-Sheets, Tableau
 📈 **Results:**
 * [Tableau Public Dashboard](https://public.tableau.com/views/Project_Unicorn/UnicornDashboardbyCategoryandSegment?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * [Google-Sheets](https://docs.google.com/spreadsheets/d/12tABKnn91MjVXZ7KtPKL8IDQuw5TvX9Fu8-BQ3351_w/edit?usp=sharing) 
-* [SQL Queries](unicorn_project.sql)
+* [SQL Queries](https://github.com/robertschopf/unicorn_project/blob/main/unicorn_project.sql)
 
 ---
 
