@@ -48,7 +48,7 @@ The project involved examining Unicorn Company's sales, profit and customer data
 
 **Skills:**
 * **SQL:** Data querying, joins, DML/DQL operations, subqueries, aggregations
-* **Data** Manipulation: Data cleaning, filtering, transformation, and validation
+* **Data Manipulation:** Data cleaning, filtering, transformation, and validation
 * **Data Visualization:** Tableau for dashboard creation, interactive visualizations, and exploration
 * **Business Analysis:** Data analysis, trend identification, KPI analysis, and development of actionable business recommendations
 
