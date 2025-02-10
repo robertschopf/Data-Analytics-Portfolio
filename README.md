@@ -17,11 +17,11 @@ I'm always interested in collaborating on new projects and expanding my skillset
 ## 🗂️ Table of Contents
 * [About Me]()
 * * [Portfolio Projects]()
-  * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio/blob/main/README.md#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
-  * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio/blob/main/README.md#-2-car-data-analysis-python)
-* [Education]()
-* [Certificates]()
-* [Contact]()
+  * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
+  * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-2-car-data-analysis-python)
+* [Education](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-education)
+* [Certificates](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)
+* [Contact](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-contact)
 
 ---
 
@@ -110,7 +110,6 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 ## 📜 Certificates
 
 * Masterschool
-   * Tableau
 
 * DataCamp
   * SQL for Data Analytics
@@ -118,6 +117,7 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * Cousera
   * Python for Data Analysis
 
+* Tableau
 ---
 
 ## 📬 Contact
