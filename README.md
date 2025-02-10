@@ -17,7 +17,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 ## 🗂️ Table of Contents
 * [About Me]()
 * * [Portfolio Projects]()
-  * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)]()
+  * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio/blob/main/README.md#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
   * 🚗 [2. Car Data Analysis (Python)]()
 * [Education]()
 * [Certificates]()
