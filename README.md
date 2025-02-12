@@ -112,12 +112,15 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * Masterschool
 
 * DataCamp
-  * SQL for Data Analytics
+  * [Orientation Course - Data Analytics - Track](https://drive.google.com/file/d/11vkK_B9csKjn_FOyv7v_Z_UCsI_KQMZg/view?usp=drive_link)
+  * [Understanding Data Topics - Track](https://drive.google.com/file/d/1qvhcz8sTITllCsqOjLB99vNb-H-P51td/view?usp=drive_link)
+  * [Google Sheets Fundamentals - Track](https://drive.google.com/file/d/1LdMxsRnTFQ36m7mlNAzBw08siFk2V4P8/view?usp=drive_link)
+  * [Spreadsheets and Tableau- Track](https://drive.google.com/file/d/1IW7ZquCQw844ZLEabwcVej5Lzf_3-Wm2/view?usp=drive_link)
+  * [Tableau Fundamentals- Track](https://drive.google.com/file/d/1mVSNAcL0POAp2Y2Insk8YFzk5WP7oz2j/view?usp=drive_link)
+  * [SQL Fundamentals - Track](https://drive.google.com/file/d/1Bj1DhmFjzjXqNwrwYNeo4uz626IWGfSi/view?usp=drive_link)
 
 * Cousera
   * Python for Data Analysis
-
-* Tableau
 ---
 
 ## 📬 Contact
