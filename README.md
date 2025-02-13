@@ -57,7 +57,7 @@ PostgreSQL, Google-Sheets, Tableau
 
 **Key Insights:**
 * Identification of the regions, categories, segments and products with the highest sales and best performing
-* Presentation of potential market opportunities and specialization options by markt categorys
+* Presentation of potential market opportunities and specialization options by markt categories
 * Recommendation of bundling the marketing budget and pricing structure linked to the discount strategy
 
 📈 **Results:**
