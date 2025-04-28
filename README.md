@@ -19,6 +19,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 * * [Portfolio Projects]()
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
   * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-2-car-data-analysis-python)
+  * ✈️ [3. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-3-traveltide-masteryproject)
 * [Education](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-education)
 * [Certificates](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)
 * [Contact](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-contact)
@@ -98,6 +99,50 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 📈 **Results:**
 * [Google Colabs Notebook](https://colab.research.google.com/drive/1867ErT9_cWf1LzrVDklDDi1wnbPa-sc4?usp=sharing)
+
+---
+
+### ✈️ **3. TravelTide: Development of a Personalized Rewards Program**
+
+**Goal:**
+
+* Development of a personalized customer retention strategy through a rewards program to strengthen customer loyalty and encourage repeat customers on the TravelTide platform.
+
+**Description:**
+
+* TravelTide is an emerging e-booking startup distinguished by its advanced data aggregation and search technology.
+* The project focuses on analyzing customer data to develop a rewards program tailored to individual customer needs.
+* This involves identifying customer segments and assigning the most relevant rewards to each segment to maximize the program's effectiveness.
+
+**Key Tasks:**
+
+* Data exploration and preparation
+* Customer segmentation
+* Analysis of reward preferences
+* Development of a reward assignment model
+* Validation of results
+
+**Skills:**
+
+* Data analysis
+* Customer segmentation
+* Rewards program development
+* Data-driven decision-making
+
+**Technology:**
+
+* Tableau (for visualizing analysis results)
+* Google Colab (for data analysis and model development)
+
+**Key Insights:**
+
+* Identification of customer segments with varying reward preferences (e.g., price-sensitive customers prefer flight discounts, loyal customers value hotel benefits)
+* Development of a model for personalized reward assignment to increase program appeal
+
+**📈 Results:**
+
+* [Tableau Public Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-TravelTide-RS/Story1)
+* [Google Colabs Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLINjfxlfwkL?usp=sharing)
 
 ---
 
