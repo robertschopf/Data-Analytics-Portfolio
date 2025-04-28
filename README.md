@@ -19,7 +19,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
 * * [Portfolio Projects]()
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
   * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-2-car-data-analysis-python)
-  * ✈️ [3. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-3-traveltide-masteryproject)
+  * ✈️ [3. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-traveltide-development-of-a-personalized-rewards-program)
 * [Education](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-education)
 * [Certificates](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)
 * [Contact](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-contact)
@@ -102,7 +102,7 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-### ✈️ **3. TravelTide: Development of a Personalized Rewards Program**
+### ✈️ [**3. TravelTide: Development of a Personalized Rewards Program**](https://github.com/robertschopf/masteryProject_traveltide)
 
 **Goal:**
 
