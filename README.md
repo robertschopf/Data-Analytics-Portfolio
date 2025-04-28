@@ -141,8 +141,9 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 **📈 Results:**
 
-* [Tableau Public Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-TravelTide-RS/Story1)
-* [Google Colabs Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLINjfxlfwkL?usp=sharing)
+* [Tableau Public Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-TravelTide-RS/TravelTideRewardsProgramLeveragingCustomerDataforPersonalizedPerks)
+* [Tableau Public Presentation Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-Presentation-TravelTide-RS/TravelTidepresentation)
+* [Google Colabs Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLIN_jfxlfwkL?usp=sharing)
 
 ---
 
