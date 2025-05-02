@@ -138,8 +138,6 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * [Tableau Public Presentation Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-Presentation-TravelTide-RS/TravelTidepresentation)
 * [Google Colabs Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLIN_jfxlfwkL?usp=sharing)
 
-These are just suggestions! Your original README is already very good. The added detail can provide an even richer picture of your work, but it's not strictly necessary. Choose what you think best represents your project and your style.
-
 ---
 
 ## 🎓 Education
