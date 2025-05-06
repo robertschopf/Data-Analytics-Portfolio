@@ -20,7 +20,7 @@ I'm always interested in collaborating on new projects and expanding my skillset
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
   * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-2-car-data-analysis-python)
   * 🏎️ [3. Vehicle Classification based on Silhouette Features (Supervised Learning with Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-vehicle-classification-based-on-silhouette-features-supervised-learning-with-python)
-  * 🚗 [4. Vehicle Segmentation and Classification using Unsupervised Learning (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-vehicle-classification-based-on-silhouette-features-supervised-learning-with-python)
+  * 🚗 [4. Vehicle Segmentation and Classification using Unsupervised Learning (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-4-vehicle-segmentation-and-classification-using-unsupervised-learning-python)
   * ✈️ [5. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-traveltide-development-of-a-personalized-rewards-program)
 * [Education](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-education)
 * [Certificates](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)
