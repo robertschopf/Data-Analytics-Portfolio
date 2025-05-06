@@ -19,7 +19,9 @@ I'm always interested in collaborating on new projects and expanding my skillset
 * * [Portfolio Projects]()
   * 🦄 [1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-1-unicorn-company-data-exploration--insights-sql--tableau--google-sheets)
   * 🚗 [2. Car Data Analysis (Python)](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-2-car-data-analysis-python)
-  * ✈️ [3. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-traveltide-development-of-a-personalized-rewards-program)
+
+  
+  * ✈️ [4. TravelTide - MasteryProject](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#%EF%B8%8F-3-traveltide-development-of-a-personalized-rewards-program)
 * [Education](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-education)
 * [Certificates](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)
 * [Contact](https://github.com/robertschopf/Data-Analytics-Portfolio?tab=readme-ov-file#-contact)
@@ -88,7 +90,7 @@ This project utilized Python to analyze a car dataset, focusing on data cleaning
 * generating informative visualizations (with Matplotlib & Seaborn)
 
 **Technology:** 
-Python with Pandas, NumPy, Matplotlib, Seaborn
+Python with libarys like Pandas, NumPy, Matplotlib, Seaborn
 
 **Key Insights:**
 * Higher engine power typically correlates with higher MSRP
@@ -102,7 +104,108 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
-### ✈️ [**3. TravelTide: Development of a Personalized Rewards Program**](https://github.com/robertschopf/masteryProject_traveltide)
+### 🏎️ [**3. Vehicle Classification based on Silhouette Features (Supervised Learning with Python)**]()
+
+**Goal:**
+Development of a classification model to distinguish between three different vehicle types (bus, van, car) based on their silhouette features for the "Prospect Auto" car repair shop chain.
+
+**Description:**
+This project employed a supervised learning approach to train a model capable of classifying vehicles based on geometric features extracted from their silhouettes. The dataset contains numerical features derived from the silhouettes of buses (double-decker), vans (Chevrolet), and cars (Saab 9000 or Opel Manta). The objective was to develop an accurate classification model that reliably differentiates the three vehicle types, acknowledging that distinguishing between the two car models might present a greater challenge.
+
+**Key Steps:**
+* **Data Import and Exploration:**
+    * Loading the dataset and conducting initial exploratory data analysis (EDA) to gain insights into the data structure, distributions, and potential relationships between the features and the target variable ('class').
+    * Visual and numerical analysis of the data to identify any anomalies, missing values, or potential issues.
+
+* **Data Preparation:**
+    * Normalizing or standardizing the numerical features to ensure all features contribute equally to the model.
+    * Splitting the dataset into training and testing sets to train the model on a portion of the data and evaluate its performance on unseen data.
+
+* **Model Development and Training:**
+    * Application of various supervised learning classification algorithms, such as Support Vector Machines (SVM), Random Forests, and Logistic Regression.
+    * Training the selected models using the training dataset.
+    * Potential execution of hyperparameter tuning to optimize the performance of the models.
+
+* **Model Evaluation:**
+    * Selection of appropriate metrics to evaluate model performance (e.g., Accuracy, Precision, Recall, F1-Score, Confusion Matrix).
+    * Evaluating the trained models using the test dataset to assess their generalization ability.
+
+* **Results and Conclusions:**
+    * Analyzing the evaluation results and comparing the performance of different models.
+    * Discussing the strengths and weaknesses of the best-performing model and its suitability for classifying vehicle silhouettes for "Prospect Auto."
+
+**Skills:**
+* **Supervised Learning:** Classification
+* **Data Preparation:** Normalization, Standardization, Train-Test Split
+* **Explorative Datenanalyse (EDA):** Visualization and descriptive statistics
+* **Model Development and Training:** Application of various classification algorithms
+* **Model Evaluation:** Selection and interpretation of classification metrics
+* **Python Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Technology:**
+* Google Colab
++ Python with libarys like Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Key Insights:**
+* Features like 'compactness', 'circularity', and 'elongatedness' showed significant discriminatory power between buses and the other vehicle types.
+* Random Forest and Support Vector Machine models achieved high accuracy in classifying the vehicles.
+* Distinguishing between 'car' and 'van' proved to be slightly more challenging than identifying 'bus'.
+
+**📈 Results:**
+* [Google Colabs Notebook](https://colab.research.google.com/drive/1A2FYZacpN4Ck65cxiW-7rqkyu40NLjad?usp=sharing)
+
+---
+
+### 🚗 [**5. Vehicle Segmentation and Classification using Unsupervised Learning (Python)**]()
+
+**Goal:** Application of Unsupervised Learning techniques to segment vehicle data based on their silhouette features and subsequent evaluation of whether this segmentation can be used to solve the classification problem for "Prospect Auto".
+
+**Description:** This project utilized the same dataset of silhouette features from buses, vans, and cars as the previous Supervised Learning project. The aim was to identify patterns and natural groupings (clusters) within the data through Unsupervised Learning, without using the actual vehicle types (the 'class' column) during training. Subsequently, the project investigated the extent to which these automatically discovered clusters align with the actual vehicle types and whether this approach is suitable for vehicle classification.
+
+**Key Steps:**
+* **Data Import and Preparation:**
+    * Loading the dataset.
+    * Normalizing or standardizing the numerical features to ensure all features equally influence the clustering algorithm.
+    * Splitting the dataset into training and testing sets (although pure Unsupervised Learning doesn't have a training set in the same sense, a split can be useful for later evaluation of the found clusters).
+
+* **Dimensionality Reduction (PCA):**
+    * Applying Principal Component Analysis (PCA) to reduce the original 18 dimensions to a lower number while preserving a significant portion of the data's variance.
+    * Evaluating the efficiency of dimensionality reduction and the number of principal components to retain.
+
+* **Clustering:**
+    * Applying one or more Unsupervised Learning clustering algorithms, such as k-Means and potentially DBSCAN.
+    * Training the clustering model on the prepared data (possibly after dimensionality reduction).
+    * Identifying the resulting clusters.
+
+* **Evaluation:**
+    * Using appropriate metrics to evaluate the clustering results (e.g., Silhouette Coefficient, Davies-Bouldin Index) and to measure the agreement between the found clusters and the actual vehicle types (e.g., Adjusted Rand Index, Normalized Mutual Information).
+
+* **Comparison with Supervised Learning:**
+    * Comparing the performance of the Unsupervised Learning approach (in terms of vehicle classification) with the results of the previously developed Supervised Learning model.
+    * Concluding which approach is more suitable for this specific problem.
+
+**Skills:**
+* **Unsupervised Learning:** Clustering (e.g., k-Means, DBSCAN), Dimensionality Reduction (PCA)
+* **Data Preparation:** Normalization, Standardization
+* **Evaluation of Clustering Results:** Silhouette Coefficient, Adjusted Rand Index, etc.
+* **Python Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Technology:**
+* Google Colab
++ Python with libarys like Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+**Key Insights:**
+* The k-Means algorithm identified three distinct clusters in the vehicle data.
+* PCA effectively reduced the dimensionality to around 5-7 principal components while retaining over 80% of the variance.
+* While the clusters showed some correlation with the actual vehicle types, the overlap indicated that unsupervised clustering alone might not be as accurate for classification as the supervised learning approach. The Adjusted Rand Index showed a moderate level of agreement.
+* Supervised learning, leveraging the labeled data, achieved significantly higher accuracy in classifying the vehicles compared to the unsupervised clustering approach.
+
+**📈 Results:**
+* [Google Colabs Notebook](https://colab.research.google.com/drive/1EABV4jp1dG4RxKrkk-lXS52O7f1pIXlk?usp=sharing)
+
+---
+
+### ✈️ [**5. TravelTide: Development of a Personalized Rewards Program**](https://github.com/robertschopf/masteryProject_traveltide)
 
 **Goal:**
 * Development of a personalized customer retention strategy through a rewards program to strengthen customer loyalty, encourage repeat customers, and ultimately increase customer lifetime value on the TravelTide platform.
@@ -137,8 +240,6 @@ Python with Pandas, NumPy, Matplotlib, Seaborn
 * [Tableau Public Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-TravelTide-RS/TravelTideRewardsProgramLeveragingCustomerDataforPersonalizedPerks)
 * [Tableau Public Presentation Dashboard](https://public.tableau.com/app/profile/robert.schopf/viz/MasterProject-Presentation-TravelTide-RS/TravelTidepresentation)
 * [Google Colabs Notebook](https://colab.research.google.com/drive/16pukAUnjZQ2kKL2zRD7BLIN_jfxlfwkL?usp=sharing)
-
-These are just suggestions! Your original README is already very good. The added detail can provide an even richer picture of your work, but it's not strictly necessary. Choose what you think best represents your project and your style.
 
 ---
 
